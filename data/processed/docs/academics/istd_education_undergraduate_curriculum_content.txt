@@ -1,0 +1,352 @@
+Education
+Undergraduate programme
+ISTD curriculum
+Undergraduate programme
+Undergraduate programme
+Apply now
+Apply now
+Curriculum
+Courses
+Minors
+Specialisation tracks
+Career prospects
+Accreditation
+Minor in Artificial Intelligence (AI)
+Minor in Computer Science (CS)
+Please select
+Overview
+Artificial Intelligence
+Custom Track
+Data Analytics
+Financial Technology
+IoT and Intelligent Systems
+Security
+Software Engineering
+Visual Analytics and Computing
+Curriculum
+Under the ISTD Pillar, we offer Bachelor of Engineering (Computer Science and Design). CSD was previously known as Bachelor of Engineering (Information Systems Technology and Design). The decision to change the programme name to CSD aims to accurately reflect the computing-intensive curriculum that students have undergone in the ISTD pillar.
+CSD Core (60 Credits)
+CSD core courses, are offered every year in Term 4 and 5. These are mandatory courses for all CSD students. The five subjects aim to equip students with basic computational and mathematical tools needed for problem solving using computers and to instil algorithmic thinking.
+Electives (96 Credits)
+Electives, provide the opportunity for students to customise the ISTD degree according to their interests and future careers.
+AY2019 ISTD students are required to take a minimum of 4 ISTD electives in order to graduate from the ISTD degree.
+AY2020 ISTD students (and subsequent batches) are required to take a minimum of 5 ISTD electives in order to graduate from the ISTD degree.
+HASS (60 Credits)
+Humanities, Arts and Social Sciences (HASS) are essential component of an SUTD degree.
+Students are required to take a HASS elective every term from Term 4 onwards.
+Capstone (24 Credits)
+The capstone is a culminating project that allows students to use the skills they have learned in ISTD in a real world industry or research project. The capstone projects often focus on interdisciplinary applications, solved by a team of students chosen appropriately from different pillars.
+Extra Courses
+From AY2017 onwards, students who have, and maintain a CGPA of 3.5 or above (and passed all Freshmore subjects) are eligible to enrol for an additional course in Term 5, 6 or 7. Subject to the prerequisites and timing of the course, students may use this flexibility to take an additional HASS or elective course.
+The following diagram depicts the typical sequence of courses in the CSD curriculum.
+Each column from left to right represents the Spring (Jan-Apr), Summer (May-Aug) and Fall (Sept-Dec) terms respectively. SUTD students choose their pillar at the end of Term 3, and begin their pillar studies in Term 4.
+Jan – Apr
+May – Aug
+Sep – Dec
+Term 1
+Innovating with Design & AI 1
+Introduction to Programming
+Calculus
+Sustainability: Science and Systems Thinking
+Introduction to Social Sciences / Global Humanities
+Jan – Apr
+Term 2
+Innovating with Design & AI 2
+Algorithmic Thinking & Object-Oriented Programming
+Linear Algebra & Multivariable Calculus (E)
+Physics Principles and Applications 1
+Introduction to Social Sciences / Global Humanities
+May – Aug
+Term 3
+Innovating with Design & AI 3
+Introduction to Machine Learning
+Introduction to Probability and Statistics (E)
+Any 2 electives^:
+Design Computation
+Designing Sustainable Energy Solutions
+Freshmore Design Studio
+Introduction to Discrete Mathematics
+Introduction to Healthcare Technology
+Introduction to Human-Centred Design
+Physics Principles and Applications 2
+Qualitative & Quantitative Research Methods
+Sep – Dec
+Vacation
+Jan – Apr
+Term 4
+50.001 Information Systems & Programming
+50.002 Computation Structures
+50.004 Algorithms
+HASS elective
+May – Aug
+Term 5
+50.003 Elements of Software Construction
+50.005 Computer System Engineering
+Elective
+HASS elective
+Sep – Dec
+Vacation / Internship / Exchange
+Jan – Apr
+Term 6
+Elective
+Elective
+Elective
+HASS elective
+May – Aug
+Vacation / Internship / Summer programme
+Sep – Dec
+Term 7
+Capstone
+Elective
+Elective
+HASS elective
+Jan – Apr
+Term 8
+Capstone
+Elective
+Elective
+HASS elective
+Jan – Apr
+May – Aug
+Sep – Dec
+TERM 1
+10.013 Modelling and Analysis
+10.015 Physical World
+10.014 Computational Thinking for Design
+02.003 Social Science: Understanding Behaviour, Culture & Society
+Jan – Apr
+TERM 2
+10.018 Modelling Space and Systems
+10.017 Technological World
+10.016 Science for a Sustainable World
+03.007 Design Thinking and Innovation
+May – Aug
+EXCHANGE/VACATION
+Sep – Dec
+TERM 3
+10.022 Modelling Uncertainty
+02.001 Global Humanities: Literature, Philosophy, and Ethics
+Any 2 Electives
+10.019 Science and Technology for Healthcare
+10.020 Data Driven World
+10.023 Designing Energy Systems
+10.024 Spatial Design World
+Jan – Apr
+TERM 4
+50.001 Information Systems & Programming
+50.002 Computation Structures
+50.004 Algorithms
+Select a HASS course
+May – Aug
+TERM 5
+50.003 Elements of Software Construction
+50.005 Computer System Engineering
+Elective
+Select a HASS course
+Sep – Dec
+INTERNSHIP / EXCHANGE / VACATION
+Jan – Apr
+TERM 6
+Elective
+Elective
+Elective
+Select a HASS course
+May – Aug
+INTERNSHIP / EXCHANGE / VACATION
+Sep – Dec
+TERM 7
+Elective
+Elective
+Capstone
+Select a HASS course
+Jan – Apr
+TERM 8
+Elective
+Elective
+Capstone
+Select a HASS course
+Jan – Apr
+May – Aug
+Sep – Dec
+TERM 1
+10.013 Modelling and Analysis
+10.015 Physical World
+10.014 Computational Thinking for Design
+02.003 Social Science: Understanding Behaviour, Culture & Society
+Jan – Apr
+TERM 2
+10.018 Modelling Space and Systems
+10.017 Technological World
+10.016 Science for a Sustainable World
+03.007 Design Thinking and Innovation
+May – Aug
+TERM 3
+10.022 Modelling Uncertainty
+02.001 Global Humanities: Literature, Philosophy, and Ethics
+Any 2 Electives:
+10.019 Science and Technology for Healthcare
+10.020 Data Driven World
+10.023 Designing Energy Systems
+10.024 Spatial Design World
+Sep – Dec
+VACATION
+Jan – Apr
+TERM 4
+50.001 Information Systems & Programming
+50.002 Computation Structures
+50.004 Algorithms
+Select a HASS course
+May – Aug
+TERM 5
+50.003 Elements of Software Construction
+50.005 Computer System Engineering
+Elective
+Select a HASS course
+Sep – Dec
+VACATION / INTERNSHIP / EXCHANGE
+Jan – Apr
+TERM 6
+Elective
+Elective
+Elective
+Select a HASS course
+May – Aug
+VACATION / INTERNSHIP / SUMMER PROGRAMME
+Sep – Dec
+TERM 7
+Elective
+Elective
+Capstone
+Select a HASS course
+Jan – Apr
+TERM 8
+Elective
+Elective
+Capstone
+Select a HASS course
+Jan – Apr
+May – Aug
+Sep – Dec
+Term 1
+10.013 Modelling and Analysis
+10.015 Physical World
+10.025 Computational Thinking for Design
+02.003 Social Science: Understanding Behaviour, Culture & Society
+03.007A Innovating with Design and AI-1
+Jan – Apr
+Term 2
+10.018 Modelling Space and Systems
+10.017 Technological World
+10.016 Science for a Sustainable World
+10.026 Design Computation
+03.007B Innovating with Design and AI-2
+May – Aug
+Term 3
+10.022 Modelling Uncertainty
+02.001 Global Humanities: Literature, Philosophy, and Ethics
+Any 2 Electives:
+10.019 Science and Technology for Healthcare
+10.020 Data Driven World
+10.023 Designing Energy Systems
+10.024 Spatial Design World
+Sep – Dec
+Vacation
+Jan – Apr
+Term 4
+50.001 Information Systems & Programming
+50.002 Computation Structures
+50.004 Algorithms
+Select a HASS course
+May – Aug
+Term 5
+50.003 Elements of Software Construction
+50.005 Computer System Engineering
+Elective
+Select a HASS course
+Sep – Dec
+Vacation / Internship / Exchange
+Jan – Apr
+Term 6
+Elective
+Elective
+Elective
+Select a HASS course
+May – Aug
+Vacation / Internship / Summer Programme
+Sep – Dec
+Term 7
+Elective
+Elective
+Capstone
+Select a HASS course
+Jan – Apr
+Term 8
+Elective
+Elective
+Capstone
+Select a HASS course
+^ For AY2026 cohort onwards
+Recommended Term 3 electives for CSD students:
+Introduction to Discrete Mathematics
+Physics Principles and Applications 2
+Information correct as of 22 January 2026 and is subject to change.
+What's next
+Explore our resources
+What is ISTD about?
+The ISTD pillar focuses on information and computing technologies and their relationship with the world. It integrates the traditional disciplines of Computer Science and Information Systems while emphasizing computing, systems, and intelligence. This integration aims to offer you the flexibility to acquire a strong foundation in computing knowledge and skills in your chosen areas, as well as the ability to interact creatively with other engineering disciplines. The combination of computing grounding, systems thinking, and intense exposure to design in an interdisciplinary context empowers you to tackle challenging computing and information problems.
+Why join ISTD?
+If you have passion for computing, technology, and a desire to innovate, ISTD is a great choice for you. Your analytical thinking and holistic problem solving skills will help you maximize the benefits of the program. In addition, joining ISTD would result in the following benefits and opportunities.
+Future-focused education
+Interdisciplinary learning
+Exposure to emerging technologies
+Foundation for lifelong learning
+Strong industry demand
+Opportunity for entrepreneurship
+Is ISTD all about coding?
+No, ISTD is not all about coding. ISTD focuses on the design, development, and application of information systems to solve real world problems.
+In ISTD, you learn algorithms, techniques to secure complex systems, methods for reliable data communications, algorithms for machine learning, analysis of algorithms, logic for Artificial Intelligence, and many more.
+Learning these often does require the design of computer programs, but is more so as a means to an end. It is by no means the main focus of what you learn in ISTD.
+What skills do I master in ISTD?
+ISTD modules provide students with a diverse set of skills including:
+1. Core Computing Skills
+Problem-solving and critical thinking
+Programming in multiple languages
+Computer hardware fundamentals
+2. Software Engineering
+Software design and development
+Testing and deployment of software products
+Database management
+3. Hardware and Integration
+Software/hardware integration
+Testing and deployment of hardware products
+Computer graphics and computational fabrication
+4. Specialized Technical Areas
+Networking and cybersecurity
+AI/ML applications
+User interface design
+Extended reality / Metaverse
+5. Professional Skills
+Multidisciplinary teamwork
+Self-learning of new technologies
+These skills prepare ISTD graduates for versatile roles across various technology-driven industries, making them valuable assets in the modern job market.
+What are the job opportunities for ISTD graduates?
+ISTD graduates have diverse and expanding career opportunities due to the pervasive nature of computing in nearly all sectors. Recent developments have further broadened these prospects:
+Software Development: Graduates can develop applications for a wide range of industries, including finance, healthcare, e-commerce, and entertainment.
+Cybersecurity: With increasing cyber threats, there’s high demand for security specialists in both public and private sectors.
+Artificial Intelligence and Machine Learning: These fields are rapidly growing, offering opportunities in data analysis, predictive modeling, and automation across industries.
+Internet of Things (IoT): ISTD graduates can design and develop smart devices and systems for homes, cities, and industries.
+Financial Technology (FinTech): The booming FinTech sector offers roles in developing secure, efficient financial systems and applications.
+Cloud Computing: As businesses migrate to the cloud, expertise in cloud architecture and management is highly sought after.
+Blockchain Technology: Though relatively new, blockchain offers opportunities in cryptocurrency, supply chain management, and secure transactions.
+Entrepreneurship: Graduates can leverage their skills to start their own tech companies or app development firms.
+Consulting: Tech consultancy roles are available for those who prefer advising businesses on digital transformation.
+Research and Development: Opportunities exist in academia and industry R&D departments for those interested in pushing technological boundaries.
+The versatility of ISTD education allows graduates to adapt to emerging technologies and changing market demands, ensuring long-term career viability across various sectors.
+Can’t find what you need?
+View all FAQs
+Academic calendar
+Get more details about your school terms, vacation periods and more.
+See more
+SUTD Courses
+Browse courses offered throughout SUTD, and discover the best fit for your interests.
+See more

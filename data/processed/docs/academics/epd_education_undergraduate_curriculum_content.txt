@@ -1,0 +1,371 @@
+Education
+Undergraduate programme
+EPD curriculum
+Undergraduate programme
+Undergraduate programme
+Apply now
+Apply now
+Curriculum
+Courses
+Minors
+Specialisation tracks
+Academic Mentorship
+Programme Educational Objectives
+Forms
+Affiliated minors
+DIVE Minor
+Healthcare Informatics Minor
+Please select
+Beyond Industry 4.0
+Computer engineering
+Electrical engineering
+Healthcare Engineering Design
+Mechanical Engineering
+Robotics
+Self-Directed Programme
+EPD Academic Mentorship Programme
+Academic Mentorship Exercise
+Overview
+The
+Engineering Product Development (EPD)
+degree is about designing and building intelligent products that work in the real world. Students learn by doing—combining engineering, design, and hands-on projects from day one.
+Instead of treating artificial intelligence as a separate specialisation, EPD integrates AI naturally into the curriculum. You’ll start by using AI as a
+powerful engineering tool
+, progress to working with AI as a
+design partner
+, and eventually learn how to build
+physical AI systems
+—intelligent products that can sense, think, and act in the world.
+Through real projects in areas such as healthcare and emergency response, students learn how AI can support human decision-making, interpret sensor data, and respond in real time. In core courses like
+EPD 30.007 – Engineering Design Innovation
+, AI is used across all stages of design—from idea generation to system delivery—helping students design smarter, more responsive solutions.
+EPD prepares you to
+engineer intelligent systems responsibly
+, with a strong focus on system integration, real-world constraints, and human-centred design—just like how engineering is practised today.
+Curriculum
+Jan – Apr
+May – Aug
+Sep – Dec
+Term 1
+Innovating with Design & AI 1
+Introduction to Programming
+Calculus
+Sustainability: Science and Systems Thinking
+Introduction to Social Sciences / Global Humanities
+Jan – Apr
+Term 2
+Innovating with Design & AI 2
+Algorithmic Thinking & Object-Oriented Programming
+Linear Algebra & Multivariable Calculus (E)
+Physics Principles and Applications 1
+Introduction to Social Sciences / Global Humanities
+May – Aug
+Term 3
+Innovating with Design & AI 3
+Introduction to Machine Learning
+Introduction to Probability and Statistics (E)
+Any 2 electives:
+Design Computation
+Designing Sustainable Energy Solutions
+Freshmore Design Studio
+Introduction to Discrete Mathematics
+Introduction to Healthcare Technology
+Introduction to Human-Centred Design
+Physics Principles and Applications 2
+Qualitative & Quantitative Research Methods
+Sep – Dec
+Vacation
+Jan – Apr
+Term 4
+30.100 Computational and Data-Driven Engineering
+30.002 Circuits & Electronics
+30.001 Structures & Materials
+HASS elective
+May – Aug
+Term 5
+30.101 Systems & Control
+30.007 Engineering Design Innovation
+Choose 1 core elective:
+30.103 Fluid Mechanics
+30.102 Electromagnetics & Applications
+HASS elective
+Sep – Dec
+Vacation / Internship / Exchange
+Jan – Apr
+Term 6
+Elective
+Elective
+Elective
+HASS elective
+May – Aug
+Vacation / Internship / Summer programme
+Sep – Dec
+Term 7
+Capstone
+Elective
+Elective
+HASS elective
+Jan – Apr
+Term 8
+Capstone
+Elective
+Elective
+HASS elective
+Jan – Apr
+May – Aug
+TERM 1
+10.013 Modelling and Analysis
+10.015 Physical World
+10.014 Computational Thinking for Design
+02.001 World Texts & Interpretations Modelling Space & Systems Technological World Science for a Sustainable World
+Sep – Dec
+TERM 2
+10.018 Modelling Space and Systems
+10.017 Technological World
+10.016 Science for a Sustainable World
+03.007 Design Thinking and Innovation
+Jan – Apr
+TERM 3
+10.022 Modelling Uncertainty
+02.003 Theorizing Society, Self and Culture
+Any two electives:
+10.019 Science and Technology for Healthcare
+10.020 Data Driven World
+10.023 Designing Energy Systems
+10.024 Spatial Design World
+May – Aug
+Internship / Summer Break / Programme Vacation
+Sep – Dec
+TERM 4
+EPD Core
+30.002 Circuits & Electronics
+30.001 Structures & Materials
+HASS
+Jan – Apr
+TERM 5
+30.101 Systems & Control
+30.007 Engineering Design Innovation
+EPD Core Elective
+HASS
+May – Aug
+Internship / Summer Break / Programme Vacation
+Sep – Dec
+TERM 6
+Elective
+Elective
+Elective
+HASS
+Jan – Apr
+TERM 7
+Capstone
+Elective
+Elective
+HASS
+May – Aug
+TERM 8
+Capstone
+Elective
+Elective
+HASS
+Jan – Apr
+May – Aug
+Sep – Dec
+TERM 1
+10.013 Modelling and Analysis
+10.015 Physical World
+10.014 Computational Thinking for Design
+02.003 Social Science: Understanding Behaviour, Culture & Society
+Jan – Apr
+TERM 2
+10.018 Modelling Space and Systems
+10.017 Technological World
+10.016 Science for a Sustainable World
+03.007 Design Thinking and Innovation
+May – Aug
+VACATION / SUMMER PROGRAMME
+Sep – Dec
+TERM 3
+10.022 Modelling Uncertainty
+02.001 Global Humanities: Literature, Philosophy, and Ethics
+Any two electives:
+10.019 Science and Technology for Healthcare
+10.020 Data Driven World
+10.023 Designing Energy Systems
+10.024 Spatial Design World
+Jan – Apr
+TERM 4
+30.100 Computational and Data-Driven Engineering
+30.002 Circuits & Electronics
+30.001 Structures & Materials
+HASS
+May – Aug
+TERM 5
+30.101 Systems & Control
+30.103 Fluid Mechanics
+30.007 Engineering Design Innovation
+HASS
+Sep – Dec
+VACATION / INTERNSHIP / EXCHANGE
+Jan – Apr
+TERM 6
+Elective
+Elective
+Elective
+HASS
+May – Aug
+VACATION / INTERNSHIP / SUMMER PROGRAMME
+Sep – Dec
+TERM 7
+Capstone
+Elective
+Elective
+HASS
+Jan – Apr
+TERM 8
+Capstone
+Elective
+Elective
+HASS
+Jan – Apr
+May – Aug
+Sep – Dec
+TERM 1
+10.013 Modelling and Analysis
+10.015 Physical World
+10.014 Computational Thinking for Design
+02.003 Social Science: Understanding Behaviour, Culture & Society
+Jan – Apr
+TERM 2
+10.018 Modelling Space and Systems
+10.017 Technological World
+10.016 Science for a Sustainable World
+03.007 Design Thinking and Innovation
+May – Aug
+TERM 3
+10.022 Modelling Uncertainty
+02.001 Global Humanities: Literature, Philosophy, and Ethics
+Any two electives:
+10.019 Science and Technology for Healthcare
+10.020 Data Driven World
+10.023 Designing Energy Systems
+10.024 Spatial Design World
+Sep – Dec
+VACATION
+Jan – Apr
+TERM 4
+30.100 Computational and Data-Driven Engineering
+30.002 Circuits & Electronics
+30.001 Structures & Materials
+HASS
+May – Aug
+TERM 5
+30.101 Systems & Control
+30.103 Fluid Mechanics
+30.007 Engineering Design Innovation
+HASS
+Sep – Dec
+VACATION / INTERNSHIP / EXCHANGE
+Jan – Apr
+TERM 6
+Elective
+Elective
+Elective
+HASS
+May – Aug
+VACATION / INTERNSHIP / SUMMER PROGRAMME
+Sep – Dec
+TERM 7
+Capstone
+Elective
+Elective
+HASS
+Jan – Apr
+TERM 8
+Capstone
+Elective
+Elective
+HASS
+Jan – Apr
+May – Aug
+Sep – Dec
+Term 1
+10.013 Modelling and Analysis
+10.015 Physical World
+10.025 Computational Thinking for Design
+02.003 Social Science: Understanding Behaviour, Culture & Society
+03.007A Innovating with Design and AI-1
+Jan – Apr
+Term 2
+10.018 Modelling Space and Systems
+10.017 Technological World
+10.016 Science for a Sustainable World
+10.026 Design Computation
+03.007B Innovating with Design and AI-2
+May – Aug
+Term 3
+10.022 Modelling Uncertainty
+02.001 Global Humanities: Literature, Philosophy, and Ethics
+Any two electives:
+10.019 Science and Technology for Healthcare
+10.020 Data Driven World
+10.023 Designing Energy Systems
+10.024 Spatial Design World
+Sep – Dec
+Vacation
+Jan – Apr
+Term 4
+30.100 Computational and Data-Driven Engineering
+30.002 Circuits & Electronics
+30.001 Structures & Materials
+HASS
+May – Aug
+Term 5
+30.101 Systems & Control
+30.103 Fluid Mechanics
+30.007 Engineering Design Innovation
+HASS
+Sep – Dec
+Vacation / Internship / Exchange
+Jan – Apr
+Term 6
+Elective
+Elective
+Elective
+HASS
+May – Aug
+Vacation / Internship / Summer Programme
+Sep – Dec
+Term 7
+Capstone
+Elective
+Elective
+HASS
+Jan – Apr
+Term 8
+Capstone
+Elective
+Elective
+HASS
+Information correct as of 22 January 2026 and is subject to change.
+MORE RESOURCES
+Forms downloads
+Change of specialisation tracks
+Pursuing an elective outside a track
+Study plan
+What's next
+Find out more
+Frequently asked questions
+I have received and accepted SUTD’s undergraduate admissions offer. Does my relevant diploma (e.g. Diploma in Nanotechnology and Materials Science), give me a higher chance of enrolling in EPD?
+Students enrolled in SUTD’s undergraduate programme will start year 1 with our common Freshmore curriculum. You are only required to select your choice of major (or degree) at the end of Term 3. The qualification you have used during admissions application will not be referenced at this point. Based on past statistics, most students will be confirmed for your choice of major.
+Must I be good at physics to do well in EPD?
+At SUTD, all first-year students go through a mandatory Freshmore curriculum which comprises foundational courses which include Physics. This approach provides a broad and rigorous education, and ensures that all students build a strong foundation in Science, Mathematics, Technology and Design to excel in your chosen major (such as EPD).
+What type of students are you looking out for?
+The EPD curriculum emphasizes hands-on physical prototyping, making it ideal for students who are inclined towards collaborative, practical work and creating tangible products to be both a suitable and rewarding choice.
+Can’t find what you need?
+View all FAQs
+Academic calendar
+Get more details about your school terms, vacation periods and more.
+See more
+SUTD Courses
+Browse courses offered throughout SUTD, and discover the best fit for your interests.
+See more

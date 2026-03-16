@@ -1,0 +1,402 @@
+…
+Undergraduate programme
+ESD curriculum
+ESD curriculum – AY2020 onwards
+ESD curriculum
+Undergraduate programme
+Apply now
+Apply now
+Curriculum
+Courses
+Minors
+Specialisation tracks
+Advanced studies
+Accreditation
+AY2020 onwards
+Before AY2020
+Minor in Analytics and AI
+Minor in Analytics
+Minor in Engineering Systems
+Please select
+Aviation Systems (For students matriculated from AY2020 onwards)
+Business Analytics and Operations Research (For students matriculated from AY2019 onwards)
+Financial Services (For students matriculated from AY2019 onwards)
+Supply Chain & Logistics (For students matriculated from AY2020 onwards)
+Curriculum
+The ESD undergraduate degree delivers a programme that is broad, with opportunities for acquiring in-depth knowledge in specific application areas. The ESD core consists of rigorous methodology courses, which provide the technical foundation necessary to model, analyse, and manage large-scale complex systems. Students supplement this core by choosing from a variety of elective courses depending on their interests. Students may also specialise in a specific specialisation track by choosing elective courses related to the track.
+By the numbers
+ESD Core (84 Credits)
+The ESD core is composed of courses focused on various methods for analysis and modelling of engineering systems. These courses, shown in red, are offered every year in terms 4, 5, and 6. Full term courses are 12 credits and half term courses are 6 credits, corresponding to the number of weeks of instruction. Click on the courses in the diagram below for more information about each course.
+Capstone (24 Credits)
+The capstone is a culminating project that allows students to use the skills they have learned in ESD in a real world industry or research project. The capstone projects often focus on interdisciplinary applications, solved by a team of students chosen appropriately from different pillars.
+Electives (72 Credits)
+Electives, shown in pink in the diagram below, provide the opportunity for students to customise the ESD degree according to their interests and future careers. Electives compose 72 credits of the ESD undergraduate programme, from which at least 24 credits must come from ESD courses (with course code 40.2xx, 40.3xx, 01.02 and 01.107). ESD offers a diverse set of electives, some are full term (12 credits) and some are half term (6 credits) courses. Pursuing one of ESD’s focus tracks can optionally help guide the selection of these electives.Technical Electives (TEs) are a select list of university courses that provide breadth in a topic that typically spans across pillars.
+HASS (60 Credits)
+Humanities, Arts, and Social Sciences (HASS) are an essential component of an SUTD degree. HASS courses, shown in purple, are required in all but one term of study. There are a variety of HASS courses that are a particular relevance to ESD. It is strongly recommended that ESD students supplement their technical engineering programme with HASS electives that build competence in economic reasoning. One recommended course is Microeconomics, the study of resource allocation under distributed economic decision making.
+Extra Courses
+From AY2017 onwards, students who have, and maintain, a GPA of 3.5 or above (and have passed all Freshmore subjects) are eligible to enroll for an additional course in terms 5, 6 and/or 7. Subject to the prerequisites and timing of the course, students may use this flexibility to take an additional HASS or elective course.
+Curriculum
+Jan – Apr
+May – Aug
+Sep – Dec
+Term 1
+Innovating with Design & AI 1
+Introduction to Programming
+Calculus
+Sustainability: Science and Systems Thinking
+Introduction to Social Sciences / Global Humanities
+Jan – Apr
+Term 2
+Innovating with Design & AI 2
+Algorithmic Thinking & Object-Oriented Programming
+Linear Algebra & Multivariable Calculus (E)
+Physics Principles and Applications 1
+Introduction to Social Sciences/Global Humanities
+May – Aug
+Term 3
+Innovating with Design & AI 3
+Introduction to Machine Learning
+Introduction to Probability and Statistics (E)
+Any 2 electives^:
+Design Computation
+Designing Sustainable Energy Solutions
+Freshmore Design Studio
+Introduction to Discrete Mathematics
+Introduction to Healthcare Technology
+Introduction to Human-Centred Design
+Physics Principles and Applications 2
+Qualitative & Quantitative Research Methods
+Sep – Dec
+Vacation
+Jan – Apr
+Term 4
+40.002 Optimisation
+40.011 Data and Business Analytics
+40.017 Probability and Statistics
+HASS elective
+May – Aug
+Term 5
+40.012 Manufacturing and Service Operations
+40.016 The Analytics Edge
+40.018 Heuristics and Systems Theory
+HASS elective
+Sep – Dec
+Vacation / Internship / Exchange
+Jan – Apr
+Term 6
+40.015 Simulation Modelling and Analysis
+Elective
+Elective
+HASS elective
+May – Aug
+Vacation / Internship / Summer programme
+Sep – Dec
+Term 7
+Capstone
+Elective
+Elective
+HASS elective
+Jan – Apr
+Term 8
+Capstone
+Elective
+Elective
+HASS elective
+Jan – Apr
+May – Aug
+Sep – Dec
+TERM 1
+02.001 World Texts & Interpretations
+10.013 Modelling and Analysis
+10.014 Computational Thinking for Design
+10.015 Physical World
+Jan – Apr
+TERM 2
+03.007 Design Thinking and Innovation
+10.016 Science for a Sustainable World
+10.017 Technological World
+10.018 Modelling Space and Systems
+May – Aug
+Vacation / Summer Programme
+Sep – Dec
+TERM 3
+10.022 Modelling Uncertainty
+02.003 Theorising Society, Self and Culture
+Any two electives:
+10.019 Science and Technology for Healthcare (Elective)
+10.020 Data Driven World (Elective)
+10.023 Designing Energy Systems (Elective)
+10.024 Spatial Design World (Elective)
+Jan – Apr
+TERM 4
+40.002 Optimisation
+40.011 Data and Business Analytics (for ESD students only)
+40.017 Probability and Statistics
+HASS
+May – Aug
+TERM 5
+40.012 Manufacturing and Service Operations
+40.014 Engineering Systems Architecture
+40.016 The Analytics Edge
+HASS
+Sep – Dec
+Vacation / Internship / Exchange
+Jan – Apr
+TERM 6
+40.015 Simulation Modelling and Analysis
+Elective
+Elective
+HASS
+May – Aug
+Vacation / Internship / Summer Programme
+Sep – Dec
+TERM 7
+Capstone
+Elective
+Elective
+HASS
+Jan – Apr
+TERM 8
+Capstone
+Elective
+Elective
+HASS
+Jan – Apr
+May – Aug
+Sep – Dec
+TERM 1
+02.003 Social Science: Understanding Behaviour, Culture & Society
+10.013 Modelling and Analysis
+10.014 Computational Thinking for Design
+10.015 Physical World
+Jan – Apr
+TERM2 2
+03.007 Design Thinking and Innovation
+10.016 Science for a Sustainable World
+10.017 Technological World
+10.018 Modelling Space and Systems
+May – Aug
+TERM 3
+10.022 Modelling Uncertainty
+02.001 Global Humanities: Literature, Philosophy, and Ethics
+Any two electives:
+10.019 Science and Technology for Healthcare (Elective)
+10.020 Data Driven World (Elective)
+10.023 Designing Energy Systems (Elective)
+10.024 Spatial Design World (Elective)
+Sep – Dec
+Vacation
+Jan – Apr
+TERM 4
+40.002 Optimisation
+40.011 Data and Business Analytics (for ESD students only)
+40.017 Probability and Statistics
+HASS
+May – Aug
+TERM 5
+40.012 Manufacturing and Service Operations
+40.016 The Analytics Edge
+40.018 Heuristics and Systems Theory
+HASS
+Sep – Dec
+Vacation / Internship / Exchange
+Jan – Apr
+TERM 6
+40.015 Simulation Modelling and Analysis
+Elective
+Elective
+HASS
+May – Aug
+Vacation / Internship / Summer Programme
+Sep – Dec
+TERM 7
+Capstone
+Elective
+Elective
+HASS
+Jan – Apr
+TERM 8
+Capstone
+Elective
+Elective
+HASS
+Jan – Apr
+May – Aug
+Sep – Dec
+TERM 1
+02.001 World Texts & Interpretations
+10.013 Modelling and Analysis
+10.014 Computational Thinking for Design
+10.015 Physical World
+Jan – Apr
+TERM 2
+03.007 Design Thinking and Innovation
+10.016 Science for a Sustainable World
+10.017 Technological World
+10.018 Modelling Space and Systems
+May – Aug
+Vacation / Summer Programme
+Sep – Dec
+TERM 3
+10.022 Modelling Uncertainty
+02.003 Theorising Society, Self and Culture
+Any two electives:
+10.019 Science and Technology for Healthcare (Elective)
+10.020 Data Driven World (Elective)
+10.023 Designing Energy Systems (Elective)
+10.024 Spatial Design World (Elective)
+Jan – Apr
+TERM 4
+40.002 Optimisation
+40.011 Data and Business Analytics (for ESD students only)
+40.017 Probability and Statistics
+HASS
+May – Aug
+TERM 5
+40.012 Manufacturing and Service Operations
+40.016 The Analytics Edge
+40.018 Heuristics and Systems Theory
+HASS
+Sep – Dec
+Vacation / Internship / Exchange
+Jan – Apr
+TERM 6
+40.015 Simulation Modelling and Analysis
+Elective
+Elective
+HASS
+May – Aug
+Vacation / Internship / Summer Programme
+Sep – Dec
+TERM 7
+Capstone
+Elective
+Elective
+HASS
+Jan – Apr
+TERM 8
+Capstone
+Elective
+Elective
+HASS
+Jan – Apr
+May – Aug
+Sep – Dec
+Term 1
+02.003 Social Science: Understanding Behaviour, Culture & Society
+03.007A Innovating with Design and AI-1
+10.013 Modelling and Analysis
+10.015 Physical World
+10.025 Computational Thinking for Design
+Jan – Apr
+Term 2
+03.007B Innovating with Design and AI-2
+10.016 Science for a Sustainable World
+10.017 Technological World
+10.018 Modelling Space and Systems
+10.026 Design Computation
+May – Aug
+Term 3
+10.022 Modelling Uncertainty
+02.001 Global Humanities: Literature, Philosophy, and Ethics
+Any two electives:
+10.019 Science and Technology for Healthcare (Elective)
+10.020 Data Driven World (Elective)
+10.023 Designing Energy Systems (Elective)
+10.024 Spatial Design World (Elective)
+Sep – Dec
+Vacation
+Jan – Apr
+Term 4
+40.002 Optimisation
+40.011 Data and Business Analytics (for ESD students only)
+40.017 Probability and Statistics
+HASS
+May – Aug
+Term 5
+40.012 Manufacturing and Service Operations
+40.016 The Analytics Edge
+40.018 Heuristics and Systems Theory
+HASS
+Sep – Dec
+Vacation / Internship / Exchange
+Jan – Apr
+Term 6
+40.015 Simulation Modelling and Analysis
+Elective
+Elective
+HASS
+May – Aug
+Vacation / Internship / Summer Programme
+Sep – Dec
+Term 7
+Capstone
+Elective
+Elective
+HASS
+Jan – Apr
+Term 8
+Capstone
+Elective
+Elective
+HASS
+^ For AY2026 cohort onwards
+Recommended Term 3 electives for ESD students:
+Introduction to Discrete Mathematics
+Physics Principles and Applications 2
+ESD curriculum (until AY2019)
+More information about the ESD curriculum for students enrolled in year 2019 and earlier can be found
+here
+.
+Information correct as of 22 January 2026 and is subject to change.
+Resources
+Explore our resources
+Frequently asked questions
+What kind of projects will ESD students be undertaking during pillar years (Term 4 to Term 8)?
+These are the major course and capstone projects ESD students will undertake during pillar years:
+Term 4:
+Data and Business Analytics: Your first ESD project is with a real client from industry or government and typically involves mining a large corporate data set for business insights and making recommendations to the client.
+Term 5:
+Complete a 2D project that integrates the core concepts from Manufacturing and Service Operations and Engineering Systems Architecture. You will be challenged to design and develop subsystems for an Enterprise Resource Planning (ERP) system and then combine these subsystems into a cohesive whole.
+Term 6:
+Simulation Modelling and Analysis: Identify and analyse complex engineering systems using simulation models, and critically evaluate competing design alternatives using appropriate statistical techniques.
+Term 7 & Term 8:
+Capstone : You will work with students from different Majors to work in design teams, contributing respective expertise and skills to solve real-world challenges.
+What specialisations are available within ESD? Can I complete more than one specialisation?
+The ESD undergraduate programme has been designed with flexibility in mind, so that students can customise their courses to suit their interests and future careers. This flexibility gives you the chance to customise your degree and specialise in the following ESD specialisation tracks :
+Aviation Systems
+Business Analytics & Operations Research
+Financial Services
+Supply Chain & Logistics
+With proper study plan, ESD students may complete more than one specialisation track. Pursuing specialisation is optional.
+For more details, please refer to
+ESD Specialisation tracks
+.
+What skills does ESD modules equip the students with and what are the career prospects for ESD graduates?
+ESD students will graduate with an analytical mindset when dealing with problems of business and operations, supplemented by the orientation toward design. You will be experienced in communicating and working with clients, and presenting your technical ideas effectively and persuasively. You will be skilled at transforming data into models and using those models to influence major decisions.
+ESD graduates are prepared for a wide range of engineering and management careers in a variety of industries, namely system/business analysts, operations managers, and project leaders in both the private and public sectors, including healthcare, banking, manufacturing, supply chain, energy, transportation, and entertainment and hospitality.
+Your career progression depends on the industry, company, and activity. For example, in a consulting company, you might expect to follow the path of “analyst-consultant-partner,” in a business you might follow “analyst-manager-director,” in an engineering firm you might follow “engineer-leader-manager-director,” and so on.
+What is ESD about?
+The study of engineering systems concerns the design, planning, and operations of large scale complex systems. Examples of engineering systems include transportation systems, supply chain and logistics, defence systems, energy systems, financial services and healthcare systems.
+The ESD undergraduate degree delivers a programme that is broad, with opportunities for acquiring in-depth knowledge in specific application areas. The ESD core consists of rigorous methodology courses, which provide the technical foundation necessary to design, analyse, and optimise systems. Students supplement this core by choosing from a variety of elective courses depending on their interests. They may also specialise in specialisation track(s) by choosing the elective courses related to the track.
+For more details, please refer to
+ESD Undergraduate programme
+.
+How does ESD differ from the other pillars at SUTD?
+All of SUTD’s degrees are significantly broader than their counterpart degrees in traditional universities. To distinguish the differences between ESD and the other degrees offered in SUTD, most notably, Engineering Product & Development (EPD) and Information Systems Technology and Design (ISTD), it is best shown through an example.
+Consider the specific challenge of delivering and deploying plug-in electric vehicles (PEV) widely throughout Singapore. Compare how the EPD, ESD, and ISTD pillars address the various components of this application:
+EPD –
+Design the car for aerodynamics & comfort; design the vehicle’s engine and drive train; simulate and analyse the safety crash test; design and test a high capacity, efficient battery system.
+ESD –
+Design the optimal charging policy given the battery technology; analyse the effect of surge energy demands after rush hour; design charging schedule based on dynamic pricing of electricity; analyse life-cycle carbon-footprint of PEV; determine optimal location for charging stations given traffic flow patterns.
+ISTD –
+Design and implement car software, mobile device integration, status interface, heads-up display, and secure communication protocols both within the vehicle and between vehicles.
+In general, ESD focuses on the logic that organises and coordinates complex systems. This logic is rooted in modelling, analysing, and optimising the systems toward an efficient, productive, and cost-effective solution.
+Can’t find what you need?
+View all FAQs
+Academic calendar
+Get more details about your school terms, vacation periods and more.
+See more
+SUTD Courses
+Browse courses offered throughout SUTD, and discover the best fit for your interests.
+See more

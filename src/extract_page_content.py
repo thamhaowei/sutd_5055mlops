@@ -127,3 +127,11 @@ if __name__ == "__main__":
     main()
 
 # to run: python -m src.extract_page_content --raw data/raw/pages --out data/processed/pages
+
+# for ass 2
+"""
+python -m src.extract_page_content \
+  --raw data/raw/pages \
+  --out data/processed/docs \
+  --meta data/processed/docs/metadata.csv
+"""

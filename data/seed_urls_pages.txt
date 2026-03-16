@@ -1,4 +1,9 @@
-https://www.sutd.edu.sg/education/undergraduate
-https://www.sutd.edu.sg/education/undergraduate/freshmore-subjects/
-https://www.sutd.edu.sg/campus-life/housing/freshmore/#tabs
-https://www.sutd.edu.sg/campus-life/housing/freshmore/rooms-and-amenities/#tabs
+https://www.sutd.edu.sg/admissions/undergraduate/education-expenses/#tabs
+
+https://www.sutd.edu.sg/admissions/undergraduate/education-expenses/fees/tuition-fees/#tabs
+
+https://www.sutd.edu.sg/admissions/undergraduate/education-expenses/fees/tuition-grant-eligibility/#tabs
+
+https://www.sutd.edu.sg/admissions/undergraduate/education-expenses/financial-estimates/#tabs
+
+https://www.sutd.edu.sg/admissions/undergraduate/education-expenses/student-insurance-scheme/#tabs
